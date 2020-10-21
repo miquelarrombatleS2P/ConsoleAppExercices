@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppExerciceForeachAndLists", "ConsoleAppExerciceForeachAndLists\ConsoleAppExerciceForeachAndLists.csproj", "{B205DD9A-57B7-4362-B7F1-7629F9F8B734}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListModificationChallenge", "ListModificationChallenge\ListModificationChallenge.csproj", "{2F729844-8303-49B1-A370-BC5636949234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B205DD9A-57B7-4362-B7F1-7629F9F8B734}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B205DD9A-57B7-4362-B7F1-7629F9F8B734}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B205DD9A-57B7-4362-B7F1-7629F9F8B734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F729844-8303-49B1-A370-BC5636949234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F729844-8303-49B1-A370-BC5636949234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F729844-8303-49B1-A370-BC5636949234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F729844-8303-49B1-A370-BC5636949234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
