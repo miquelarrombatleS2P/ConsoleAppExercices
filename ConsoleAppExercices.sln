@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppExerciceForeachAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListModificationChallenge", "ListModificationChallenge\ListModificationChallenge.csproj", "{2F729844-8303-49B1-A370-BC5636949234}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeChallenge", "DateTimeChallenge\DateTimeChallenge.csproj", "{9913A65B-A531-4F0F-9401-C490D753E460}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2F729844-8303-49B1-A370-BC5636949234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F729844-8303-49B1-A370-BC5636949234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F729844-8303-49B1-A370-BC5636949234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9913A65B-A531-4F0F-9401-C490D753E460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9913A65B-A531-4F0F-9401-C490D753E460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9913A65B-A531-4F0F-9401-C490D753E460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9913A65B-A531-4F0F-9401-C490D753E460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
