@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{12DAB056-DBCE-48FE-9EE7-745A94DD32DD}</ProjectGuid>
+    <ProjectGuid>{B7361DE5-5FF5-42F2-B4D2-45F9AFFDFD71}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TextFiles</RootNamespace>
-    <AssemblyName>TextFiles</AssemblyName>
+    <RootNamespace>TextFilesAdvanced</RootNamespace>
+    <AssemblyName>TextFilesAdvanced</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

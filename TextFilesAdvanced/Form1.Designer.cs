@@ -1,4 +1,6 @@
-﻿namespace TextFiles
+﻿using System;
+
+namespace TextFilesAdvanced
 {
     partial class Form1
     {
@@ -130,6 +132,7 @@
             this.FirstNameBox1.Name = "FirstNameBox1";
             this.FirstNameBox1.Size = new System.Drawing.Size(258, 22);
             this.FirstNameBox1.TabIndex = 8;
+            this.FirstNameBox1.TextChanged += new System.EventHandler(this.FirstNameBox1_TextChanged);
             // 
             // LastNameBox2
             // 

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TextFiles.Properties
+namespace TextFilesStandard.Properties
 {
 
 
